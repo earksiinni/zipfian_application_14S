@@ -1,4 +1,4 @@
 zipfian_application_14S
 =======================
 
-Solution for the code question on the initial Zipfian Academy application
+Solution for the code question on the initial Zipfian Academy application, Summer 2014.
